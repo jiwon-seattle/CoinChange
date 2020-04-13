@@ -1,4 +1,4 @@
-# [Anagram](https://github.com/jiwon-seattle/CoinChange.git)
+# [CoinChange](https://github.com/jiwon-seattle/CoinChange.git)
 
 #### Functional programming exercise at [Epicodus](https://www.epicodus.com/), 04.13.2020
 
